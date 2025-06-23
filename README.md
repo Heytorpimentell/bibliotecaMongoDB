@@ -97,8 +97,6 @@ A estrutura de arquivos do projeto é organizada da seguinte forma:
 ├── querymenospagi.js     # Script/função para listar os 10 livros com menos páginas
 ├── update.js             # Script/função para atualizar livros
 └── # Outros arquivos de teste ou orquestração (se houver)
-Como Executar as Funções
-Cada arquivo .js que contém uma função de operação ou consulta pode ser executado individualmente via terminal (Node.js).
 
 Exemplos de execução:
 
