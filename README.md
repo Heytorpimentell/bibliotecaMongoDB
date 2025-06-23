@@ -41,7 +41,7 @@ Cada documento na coleção `livros` representa um único livro e espera conter 
 
 Exemplo de um documento de livro:
 
-```json
+`json
 {
   "titulo": "O Guia do Mochileiro das Galáxias",
   "autor": "Douglas Adams",
